@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "json-server",
+      "email": "typicode",
+      "password": "shdjhm"
+    },
+    {
+      "name": "Panchal Himanshu",
+      "email": "panchalhimanshu660@gmail.com",
+      "password": "himanshu_143",
+      "id": "2"
+    },
+    {
+      "name": "Kano Panchal",
+      "email": "xyz",
+      "password": "1234",
+      "id": "3"
+    },
+    {
+      "name": "himanshu panchal",
+      "email": "Himanshu@gmail.com",
+      "password": "123456",
+      "id": "4"
+    },
+    {
+      "name": "Himanshu",
+      "email": "P@gmail.com",
+      "password": "5555",
+      "id": "5"
+    },
+    {
+      "name": "s",
+      "email": "s",
+      "password": "s",
+      "id": "6"
+    },
+    {
+      "name": "Panchal Himanshu",
+      "email": "x",
+      "password": "x",
+      "id": "7"
+    },
+    {
+      "id": "f854",
+      "name": "Panchal Himanshu",
+      "email": "w",
+      "password": "w"
+    },
+    {
+      "id": "22bb",
+      "name": "himanshu panchal",
+      "email": "himansh",
+      "password": "s"
+    },
+    {
+      "id": "dcd8",
+      "name": "Panchal Himanshu",
+      "email": "panchalhimanshu@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "88b1",
+      "name": "Panchal Himanshu",
+      "email": "z",
+      "password": "z"
+    },
+    {
+      "id": "f1bd",
+      "name": "Panchal Bunty",
+      "email": "b@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "6b6e",
+      "name": "Himanshu Panchal",
+      "email": "panchalhimanshu1234@gmail.com",
+      "password": "54564"
+    }
+  ]
+}
